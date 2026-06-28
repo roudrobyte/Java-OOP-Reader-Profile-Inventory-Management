@@ -20,7 +20,7 @@ The system enforces capacity limits on the reader's inventory, handles boundary-
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <[Reader Profile Inventory Management](https://github.com/roudrobyte/Java-OOP-Reader-Profile-Inventory-Management)>
+   git clone [Reader Profile Inventory Management](https://github.com/roudrobyte/Java-OOP-Reader-Profile-Inventory-Management)
    ```
 2. Open your terminal or command prompt and navigate to the project directory.
 3. Compile the Java files:
